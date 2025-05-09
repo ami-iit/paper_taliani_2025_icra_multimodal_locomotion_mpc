@@ -22,9 +22,7 @@ https://github.com/user-attachments/assets/14686435-7e4e-45d6-93d5-540ffdd34f39
 
 <div align="center">
   <a href="#installation"><b>Installation</b></a> |
-  <a href="https://ieeexplore.ieee.org/abstract/document/10611506"><b>Paper</b></a> | 
-  <a href="https://arxiv.org/abs/2309.13948"><b>arXiv</b></a> |
-  <a href="https://youtu.be/uWYuQ8gT404"><b>Video</b></a>
+  <a href="https://ieeexplore.ieee.org/"><b>Paper</b></a>
 </div>
 
 
