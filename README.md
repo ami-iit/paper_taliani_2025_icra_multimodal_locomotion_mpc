@@ -47,9 +47,10 @@ Please refer to [the documentation in `robotology-superbuild`](https://github.co
     mamba env create -n <conda-environment-name> --file environment.yml
     mamba activate  <conda-environment-name>
     ```
-3. Specify the number of threads used by the optimiser:
+3. Add to your bashrc:
    ```sh
-   mamba env config vars set OMP_NUM_THREADS=1
+   export ELEMENT_TRAJ_ADJ_PATH=/**insert-here-path-to**/paper_taliani_2025_icra_multimodal_locomotion_mpc
+   export OMP_NUM_THREADS=1
    ```
 4. Install python repository:
     ```sh
